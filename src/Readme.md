@@ -15,3 +15,11 @@ Respuesta =
 
 ![ImagenCOD3](media/COD3.png)
 ![ImagenCOD4](media/COD4.png)
+
+
+### Apartado 3
+
+Respuesta = 
+```Primero situarse en la rama principal local, y hacer git pull origin main el cual descarga y fusiona los cambios del repositorio remoto en un solo paso```
+
+![ImagenCOD5](media/COD5.png)
